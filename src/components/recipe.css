@@ -1,0 +1,16 @@
+.img {
+  margin: 50px;
+}
+img {
+  border: solid 5px goldenrod;
+  border-radius: 40px;
+}
+.title {
+  font-weight: bold;
+  font-size: 26px;
+  color: sienna;
+}
+button:hover {
+  background: lightskyblue;
+  color: white;
+}
